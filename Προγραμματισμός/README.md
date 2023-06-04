@@ -12,21 +12,22 @@
 
 A/A | Εξάρτημα | Analog Pin | Digital Pin
 ------| ------------|----------- |------------------
-1 | Αισθητήρας LM35 | A0 |
+1 | Αισθητήρας DHT11 |  | 7
 2 | Φως Σπιτιού |  | 2
 3 | Φως Αυλής | | 3
 4 | Διακόπτης Σπιτιού | | 9 
 5 | Διακόπτης Αυλής | | 10 
-6 | Οθόνη LCD 16x2 SDM pin | A4
-7 | Οθόνη LCD 16x2 SCL pin | A5
+6 | Οθόνη LCD 20x4 SDM pin | A4
+7 | Οθόνη LCD 20x4 SCL pin | A5
 
 
 ## Kώδικας
 
+[Δείτε τον κώδικα εδώ](program/program.ino)
 
 
 
 
 [Αρχική Σελίδα έργου](https://github.com/stegiepistimwn/cobitospito)
 
-[def1]: circuit.jpg
+[def1]: circuit_bb.jpg
