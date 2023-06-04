@@ -27,7 +27,7 @@
 
 ---
 
-Το έργο μας διατείθεται με δικαιώματα:  
+Το σύνολο του έργου μας διατείθεται με δικαιώματα:  
 [Creative Commons Attribution 4.0 International License][cc-by]. 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
