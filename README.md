@@ -6,7 +6,7 @@
 Στέγη Επιστημών Ερμιονίδας
 
 
-[![!cobhouse](/cobHouse/6.jpg)][def2]
+[![!cobhouse](videoyoutube.png)][def2]
 
 ## Κατηγορίες που προσεγγίζει η εργασία μας είναι:
 
